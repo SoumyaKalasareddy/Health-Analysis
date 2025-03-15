@@ -20,3 +20,18 @@ Technologies Used:
 Microsoft Power BI,
 Data modeling techniques,
 DAX (Data Analysis Expressions)
+
+Datasets:
+Raw Data (raw_data.xlsx):
+This dataset contains unprocessed health data as originally collected.
+
+Includes missing values and potential inconsistencies.
+
+Used for demonstrating data cleaning and preprocessing techniques.
+
+Cleaned Data (Cleaned_data.csv):
+This dataset is preprocessed and ready for analysis.
+
+Missing values are handled, duplicates are removed, and formatting is standardized.
+
+Suitable for direct use in Power BI dashboards and reports.
