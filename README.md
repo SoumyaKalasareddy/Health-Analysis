@@ -24,7 +24,7 @@ DAX (Data Analysis Expressions)
 
 Datasets:
 
- Raw Data (raw_data.xlsx):
+ Raw Data (raw_data.xlsx) :
 
   This dataset contains unprocessed health data as originally collected.
 
@@ -32,7 +32,7 @@ Datasets:
 
   Used for demonstrating data cleaning and preprocessing techniques.
 
-Cleaned Data (Cleaned_data.csv):
+Cleaned Data (Cleaned_data.csv) :
 
   This dataset is preprocessed and ready for analysis.
 
