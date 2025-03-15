@@ -11,7 +11,9 @@ Filtering and drill-down capabilities
 
 Usage:
 Open the Power BI file to explore interactive dashboards.
+
 Modify or refresh data sources as needed.
+
 Customize visuals and filters for deeper analysis.
 
 Technologies Used:
