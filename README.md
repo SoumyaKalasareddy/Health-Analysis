@@ -10,6 +10,7 @@ Trend analysis and KPI tracking,
 Filtering and drill-down capabilities
 
 Usage:
+
 Open the Power BI file to explore interactive dashboards.
 
 Modify or refresh data sources as needed.
@@ -22,14 +23,17 @@ Data modeling techniques,
 DAX (Data Analysis Expressions)
 
 Datasets:
-Raw Data (raw_data.xlsx):
+
+1.Raw Data (raw_data.xlsx):
+
 This dataset contains unprocessed health data as originally collected.
 
 Includes missing values and potential inconsistencies.
 
 Used for demonstrating data cleaning and preprocessing techniques.
 
-Cleaned Data (Cleaned_data.csv):
+2.Cleaned Data (Cleaned_data.csv):
+
 This dataset is preprocessed and ready for analysis.
 
 Missing values are handled, duplicates are removed, and formatting is standardized.
